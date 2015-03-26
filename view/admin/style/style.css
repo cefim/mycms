@@ -1,0 +1,16 @@
+body{padding-top: 70px}
+
+th.action{width: 150px;}
+th.id{width: 20px;}
+
+#tablePageListe td{
+	vertical-align: middle
+}
+
+
+.modifAffiche, .ajoutAffiche{
+	display : none
+}
+
+.modif .modifAffiche {display:inline-block;}
+.ajout .ajoutAffiche {display:inline-block;}
