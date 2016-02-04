@@ -1,4 +1,4 @@
 # mycms
-Un CMS Frustre à améliorer
+My CMS est un petit exercice autour du PhP Objet.
 
-voila voila
+auteur : [E. Jallier](https://github.com/ejallier) pour CEFIM, 2015
